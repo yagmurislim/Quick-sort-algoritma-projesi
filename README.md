@@ -1,2 +1,2 @@
 # Quick-sort-algoritma-projesi
-C programalama diliyle kodlanmış quick sort algoritması ile kelimeleri sıralayan proje.
+C programala dili kullanilarak kullanıcının girdigi kelimeleri yine pivot secimini kullanicinin yaptıgı buyuk kucuk harfa duyarlı olarak quick sort algoritması ile sıralayan program.
